@@ -773,7 +773,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2025-04-09T21:00:00-03:00",
-    "last_activity_at": "2025-04-10T10:24:15-03:00",
+    "last_activity_at": "2025-04-10T10:32:54-03:00",
     "last_activity_editor": "vscode/1.99.1/copilot/1.300.0",
     "assigning_team": {
       "name": "Copilot",
@@ -1565,8 +1565,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2025-04-09T21:00:00-03:00",
-    "last_activity_at": "2025-04-09T20:13:54-03:00",
-    "last_activity_editor": "JetBrains-AI/243.24978.46.2431.13208083/",
+    "last_activity_at": "2025-04-10T10:30:51-03:00",
+    "last_activity_editor": "Xcode/16.2/copilot-xcode/0.32.0",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
