@@ -24,10 +24,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T23:13:38Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T20:00:40-03:00",
-    "last_activity_editor": "JetBrains-PS/251.23774.436/",
+    "last_authenticated_at": "2025-09-18T18:32:08Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T10:45:38-03:00",
+    "last_activity_editor": "copilot-chat",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -40,6 +40,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -69,10 +71,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T20:16:01Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T17:17:04-03:00",
-    "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
+    "last_authenticated_at": "2025-09-18T17:55:38Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T14:55:51-03:00",
+    "last_activity_editor": "vscode/1.104.0/copilot-chat/0.31.0",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -85,6 +87,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -114,10 +118,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-09T13:22:17Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-08-21T15:00:44-03:00",
-    "last_activity_editor": "copilot-chat",
+    "last_authenticated_at": "2025-09-18T18:48:04Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-15T15:26:38-03:00",
+    "last_activity_editor": "copilot_pr_review",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -130,6 +134,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -159,10 +165,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-12T08:52:52Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-12T04:43:12-03:00",
-    "last_activity_editor": "vscode/1.92.1/copilot/1.250.0",
+    "last_authenticated_at": "2025-09-18T19:23:50Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T16:07:45-03:00",
+    "last_activity_editor": "vscode/1.92.1/",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -175,6 +181,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -204,9 +212,9 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T20:37:42Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T17:21:48-03:00",
+    "last_authenticated_at": "2025-09-19T09:30:36Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T23:02:16-03:00",
     "last_activity_editor": "vscode/1.102.2/copilot-chat/0.29.1",
     "assigning_team": {
       "name": "Copilot",
@@ -220,6 +228,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -249,9 +259,9 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T19:30:09Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T16:32:06-03:00",
+    "last_authenticated_at": "2025-09-19T09:37:45Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-19T06:36:30-03:00",
     "last_activity_editor": "vscode/1.102.3/copilot-chat/0.29.1",
     "assigning_team": {
       "name": "Copilot",
@@ -265,6 +275,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -294,10 +306,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T21:43:23Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T18:23:06-03:00",
-    "last_activity_editor": "JetBrains-DB/232.8660.111/copilot-intellij/1.5.33-231",
+    "last_authenticated_at": "2025-09-18T21:27:55Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T18:28:57-03:00",
+    "last_activity_editor": "JetBrains-WS/252.25557.126/copilot-intellij/1.5.56-243",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -310,6 +322,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -339,10 +353,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T11:10:59Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-09T15:18:47-03:00",
-    "last_activity_editor": "JetBrains-PS/252.23892.419/copilot-intellij/1.5.52-243",
+    "last_authenticated_at": "2025-09-19T09:47:54Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-19T06:49:08-03:00",
+    "last_activity_editor": "vscode/1.104.1/copilot-chat/0.31.1",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -355,6 +369,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -384,10 +400,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T19:27:14Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T14:37:24-03:00",
-    "last_activity_editor": "JetBrains-PS/252.23892.419/copilot-intellij/1.5.53-243",
+    "last_authenticated_at": "2025-09-18T20:07:28Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T16:00:30-03:00",
+    "last_activity_editor": "JetBrains-PS/252.23892.419/",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -400,6 +416,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -429,10 +447,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-12T03:46:02Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-12T00:50:52-03:00",
-    "last_activity_editor": "JetBrains-AI/251.25410.109.2511.13665796/copilot-intellij/1.5.56-243",
+    "last_authenticated_at": "2025-09-18T19:38:35Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T16:46:08-03:00",
+    "last_activity_editor": "JetBrains-AI/251.26094.121.2513.14007798/copilot-intellij/1.5.57-243",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -445,6 +463,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -474,9 +494,9 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T19:52:14Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T16:54:13-03:00",
+    "last_authenticated_at": "2025-09-18T13:32:55Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T10:52:39-03:00",
     "last_activity_editor": "vscode/1.103.1/copilot-chat/0.30.3",
     "assigning_team": {
       "name": "Copilot",
@@ -490,6 +510,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -520,7 +542,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "last_authenticated_at": "2025-09-10T21:48:15Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
+    "updated_at": "2025-09-18T21:00:00-03:00",
     "last_activity_at": "2025-09-10T18:48:20-03:00",
     "last_activity_editor": "",
     "assigning_team": {
@@ -535,6 +557,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -564,10 +588,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T20:32:34Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T17:37:12-03:00",
-    "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
+    "last_authenticated_at": "2025-09-18T19:40:37Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T16:51:09-03:00",
+    "last_activity_editor": "vscode/1.104.0/copilot-chat/0.31.0",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -580,6 +604,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -609,10 +635,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T20:07:07Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T16:24:14-03:00",
-    "last_activity_editor": "vscode/1.94.1/copilot/1.250.0",
+    "last_authenticated_at": "2025-09-18T20:38:15Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T17:41:00-03:00",
+    "last_activity_editor": "vscode/1.94.1/",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -625,6 +651,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -654,10 +682,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T21:00:12Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T16:05:43-03:00",
-    "last_activity_editor": "JetBrains-PS/252.23892.419/copilot-intellij/1.5.56-243",
+    "last_authenticated_at": "2025-09-12T19:13:27Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-12T16:19:45-03:00",
+    "last_activity_editor": "JetBrains-PS/252.23892.419/",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -670,6 +698,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -699,9 +729,9 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-12T08:26:54Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T16:29:52-03:00",
+    "last_authenticated_at": "2025-09-18T18:27:22Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T14:00:05-03:00",
     "last_activity_editor": "JetBrains-PS/243.26053.13/",
     "assigning_team": {
       "name": "Copilot",
@@ -715,6 +745,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -744,10 +776,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T19:28:27Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T16:29:42-03:00",
-    "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
+    "last_authenticated_at": "2025-09-18T19:35:19Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T16:35:46-03:00",
+    "last_activity_editor": "vscode/1.104.1/copilot-chat/0.31.0",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -760,6 +792,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -789,9 +823,9 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T19:50:19Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T16:57:44-03:00",
+    "last_authenticated_at": "2025-09-18T20:03:34Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T17:03:47-03:00",
     "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
     "assigning_team": {
       "name": "Copilot",
@@ -805,6 +839,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -834,9 +870,9 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T17:43:32Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T14:43:46-03:00",
+    "last_authenticated_at": "2025-09-18T20:28:00Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T17:33:18-03:00",
     "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
     "assigning_team": {
       "name": "Copilot",
@@ -850,6 +886,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -880,7 +918,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "last_authenticated_at": "2025-09-03T21:28:25Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
+    "updated_at": "2025-09-18T21:00:00-03:00",
     "last_activity_at": "2025-09-03T18:28:54-03:00",
     "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
     "assigning_team": {
@@ -895,6 +933,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -924,10 +964,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-12T01:20:17Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T17:58:11-03:00",
-    "last_activity_editor": "JetBrains-PS/252.23892.419/copilot-intellij/1.5.56-243",
+    "last_authenticated_at": "2025-09-18T20:52:58Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T17:42:46-03:00",
+    "last_activity_editor": "JetBrains-PS/252.23892.419/copilot-intellij/1.5.57-243",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -940,6 +980,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -969,10 +1011,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-10T21:15:45Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-10T18:15:43-03:00",
-    "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
+    "last_authenticated_at": "2025-09-18T19:09:29Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T16:04:26-03:00",
+    "last_activity_editor": "JetBrains-PS/252.23892.419/",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -985,6 +1027,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1014,10 +1058,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T18:02:36Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T12:24:38-03:00",
-    "last_activity_editor": "JetBrains-AI/251.26094.121.2512.13930704/",
+    "last_authenticated_at": "2025-09-18T17:39:27Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T14:39:27-03:00",
+    "last_activity_editor": "JetBrains-AI/251.26094.121.2512.13930704/copilot-intellij/1.5.53-243",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -1030,6 +1074,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1059,9 +1105,9 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T17:48:16Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T13:59:56-03:00",
+    "last_authenticated_at": "2025-09-18T18:44:29Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T15:45:39-03:00",
     "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
     "assigning_team": {
       "name": "Copilot",
@@ -1075,6 +1121,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1104,10 +1152,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T12:00:12Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-10T16:17:58-03:00",
-    "last_activity_editor": "copilot-chat",
+    "last_authenticated_at": "2025-09-18T20:10:49Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T17:11:30-03:00",
+    "last_activity_editor": "JetBrains-PS/252.23892.419/copilot-intellij/1.5.52-243",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -1120,6 +1168,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1150,7 +1200,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "last_authenticated_at": "2025-07-02T15:02:45Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
+    "updated_at": "2025-09-18T21:00:00-03:00",
     "last_activity_at": null,
     "last_activity_editor": null,
     "assigning_team": {
@@ -1165,6 +1215,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1194,8 +1246,8 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T13:34:01Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
+    "last_authenticated_at": "2025-09-18T14:26:24Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
     "last_activity_at": "2025-09-11T11:13:08-03:00",
     "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
     "assigning_team": {
@@ -1210,6 +1262,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1240,7 +1294,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "last_authenticated_at": "2025-08-28T14:13:38Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
+    "updated_at": "2025-09-18T21:00:00-03:00",
     "last_activity_at": "2025-08-28T11:14:57-03:00",
     "last_activity_editor": "copilot-chat-platform",
     "assigning_team": {
@@ -1255,6 +1309,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1284,10 +1340,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T20:55:02Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T17:56:59-03:00",
-    "last_activity_editor": "copilot-chat-platform",
+    "last_authenticated_at": "2025-09-18T20:20:18Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T17:38:19-03:00",
+    "last_activity_editor": "Xcode/16.2/copilot-xcode/0.42.0",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -1300,6 +1356,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1329,10 +1387,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T10:25:40Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-10T15:39:04-03:00",
-    "last_activity_editor": "copilot-chat",
+    "last_authenticated_at": "2025-09-18T18:38:38Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T15:38:52-03:00",
+    "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -1345,6 +1403,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1375,7 +1435,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "last_authenticated_at": "2025-07-09T12:19:31Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
+    "updated_at": "2025-09-18T21:00:00-03:00",
     "last_activity_at": "2025-07-16T12:06:38-03:00",
     "last_activity_editor": "copilot-pr-reviews",
     "assigning_team": {
@@ -1390,6 +1450,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1419,10 +1481,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T18:55:02Z",
+    "last_authenticated_at": "2025-09-18T19:40:36Z",
     "updated_at": "2025-04-24T14:17:32-03:00",
-    "last_activity_at": "2025-09-11T14:59:46-03:00",
-    "last_activity_editor": "copilot_pr_review"
+    "last_activity_at": "2025-09-18T15:16:59-03:00",
+    "last_activity_editor": "vscode/1.103.2/copilot/1.372.0"
   },
   {
     "created_at": "2025-05-20T07:57:02-03:00",
@@ -1449,9 +1511,9 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T22:11:26Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T20:19:29-03:00",
+    "last_authenticated_at": "2025-09-18T21:39:22Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T21:30:55-03:00",
     "last_activity_editor": "vscode/1.103.0/copilot-chat/0.30.3",
     "assigning_team": {
       "name": "Copilot",
@@ -1465,6 +1527,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1494,10 +1558,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T20:04:01Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T17:04:16-03:00",
-    "last_activity_editor": "vscode/1.103.2/copilot-chat/0.30.3",
+    "last_authenticated_at": "2025-09-19T01:33:32Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T22:41:00-03:00",
+    "last_activity_editor": "vscode/1.104.1/copilot-chat/0.31.1",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -1510,6 +1574,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1539,10 +1605,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T18:15:18Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T15:15:27-03:00",
-    "last_activity_editor": "copilot-chat",
+    "last_authenticated_at": "2025-09-18T19:17:50Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T16:17:54-03:00",
+    "last_activity_editor": "copilot_pr_review",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -1555,6 +1621,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1584,10 +1652,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-12T08:45:07Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T11:12:29-03:00",
-    "last_activity_editor": "vscode/1.102.3/copilot-chat/0.29.1",
+    "last_authenticated_at": "2025-09-19T09:31:54Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T16:56:09-03:00",
+    "last_activity_editor": "JetBrains-PS/252.23892.419/copilot-intellij/1.5.52-243",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -1600,6 +1668,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1630,7 +1700,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "last_authenticated_at": null,
-    "updated_at": "2025-09-11T21:00:00-03:00",
+    "updated_at": "2025-09-18T21:00:00-03:00",
     "last_activity_at": null,
     "last_activity_editor": null,
     "assigning_team": {
@@ -1645,6 +1715,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1674,9 +1746,9 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-12T04:10:54Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T14:33:41-03:00",
+    "last_authenticated_at": "2025-09-18T21:58:11Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T15:55:06-03:00",
     "last_activity_editor": "JetBrains-PS/252.23892.419/",
     "assigning_team": {
       "name": "Copilot",
@@ -1690,6 +1762,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1719,10 +1793,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T19:54:54Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T16:51:59-03:00",
-    "last_activity_editor": "vscode/1.99.3/",
+    "last_authenticated_at": "2025-09-19T09:41:07Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T17:12:56-03:00",
+    "last_activity_editor": "vscode/1.99.3/copilot/1.372.0",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -1735,6 +1809,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
@@ -1764,10 +1840,10 @@
     },
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_authenticated_at": "2025-09-11T20:16:03Z",
-    "updated_at": "2025-09-11T21:00:00-03:00",
-    "last_activity_at": "2025-09-11T17:17:44-03:00",
-    "last_activity_editor": "copilot-chat",
+    "last_authenticated_at": "2025-09-18T20:50:56Z",
+    "updated_at": "2025-09-18T21:00:00-03:00",
+    "last_activity_at": "2025-09-18T17:51:10-03:00",
+    "last_activity_editor": "vscode/1.104.0/copilot-chat/0.31.0",
     "assigning_team": {
       "name": "Copilot",
       "id": 8948457,
@@ -1780,6 +1856,8 @@
       "html_url": "https://github.com/orgs/Rentcars/teams/copilot",
       "members_url": "https://api.github.com/organizations/10653809/team/8948457/members{/member}",
       "repositories_url": "https://api.github.com/organizations/10653809/team/8948457/repos",
+      "type": "organization",
+      "organization_id": 10653809,
       "permission": "pull",
       "parent": null
     }
